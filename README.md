@@ -73,4 +73,4 @@ Each skill folder will contain:
 
 ## Project Status
 
-🚧 In Progress
+ In Progress
