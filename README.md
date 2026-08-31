@@ -2,10 +2,11 @@
 
 ## Overview
 
-This repository documents my journey through the Cisco CCNA by designing and implementing the enterprise network for **Castle Rysen Coffee**.
+This repository documents my Cisco CCNA networking project based on **Castle Rysen Coffee**, a fictional company used to simulate a real-world enterprise network.
 
-The network is built incrementally as I progress through the course, with each skill adding new technologies and configurations to the same enterprise environment.
+The business consists of a Central Office(~200 users), multiple Fallout Shelters(~50 users) and several District Shops(~15 users) that must communicate securely over a reliable enterprise network. Throughout this project, I progressively design and implement the infrastructure needed to connect these sites while applying the networking concepts learned in each skill.
 
+The network is developed incrementally, with each skill building on the previous one to create a complete, secure and scalable enterprise network. This repository serves as both my learning documentation and a portfolio of hands-on networking projects.
 ---
 
 ## Project Goal
@@ -43,7 +44,7 @@ Each skill folder contains:
 ## Course Progress
 
 - [x] Skill 01 - Using Packet Tracer to Understand Networks
-- [ ] Skill 02 - Assembling Your Network Equipment
+- [x] Skill 02 - Assembling Your Network Equipment
 - [ ] Skill 03 - Cables, Connectors, and Ports
 - [ ] Skill 04 - Network Design and Communication Models
 - [ ] Skill 05 - Configuring Cisco Devices using the IOS
