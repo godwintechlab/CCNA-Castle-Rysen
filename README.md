@@ -42,7 +42,7 @@ Each skill folder contains:
 
 ## Course Progress
 
-- [*] Skill 01 - Using Packet Tracer to Understand Networks
+- [x] Skill 01 - Using Packet Tracer to Understand Networks
 - [ ] Skill 02 - Assembling Your Network Equipment
 - [ ] Skill 03 - Cables, Connectors, and Ports
 - [ ] Skill 04 - Network Design and Communication Models
