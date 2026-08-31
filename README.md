@@ -31,18 +31,18 @@ By the end of this project, I aim to design and implement a complete enterprise 
 
 ## Repository Structure
 
-Each skill folder will contain:
+Each skill folder contains:
 
-- A summary of the objective
+- README.md with an overview of the skill
 - Packet Tracer lab files
-- Configuration notes
-- Network diagrams (when applicable)
+- Screenshots or network diagrams (when applicable)
+- Additional files as required
 
 ---
 
 ## Course Progress
 
-- [ ] Skill 01 - Using Packet Tracer to Understand Networks
+- [*] Skill 01 - Using Packet Tracer to Understand Networks
 - [ ] Skill 02 - Assembling Your Network Equipment
 - [ ] Skill 03 - Cables, Connectors, and Ports
 - [ ] Skill 04 - Network Design and Communication Models
