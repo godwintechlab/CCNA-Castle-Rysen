@@ -1,1 +1,0 @@
-This lab explored how Cisco switches learn and maintain CAM (MAC Address) tables. I examined how MAC addresses are dynamically learned, verified switch forwarding decisions, and used Cisco IOS commands to inspect and validate CAM table entries.
