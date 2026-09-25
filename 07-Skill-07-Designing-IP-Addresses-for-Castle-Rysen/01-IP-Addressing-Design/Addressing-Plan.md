@@ -2,14 +2,14 @@
 
 ## Internal Network Allocation
 
-Each café receives four /24 networks.
+Each cafe receives four /24 networks.
 
 | Purpose | Subnet |
 |----------|---------|
 | Internal devices | 192.168.x.0/24 |
 | VoIP | 192.168.x.1/24 |
 | Guest Wi-Fi | 192.168.x.2/24 |
-| Guest Rooms / Expansion | 192.168.x.3/24 |
+| Room to grow | 192.168.x.3/24 |
 
 Example:
 
@@ -29,7 +29,7 @@ Cafe 2
 
 ## Enterprise Structure
 
-- 5 District Shops per Fallout Shelter
+- 50 District Shops per Fallout Shelter
 - 30 Fallout Shelters per Central Office
 
 ---
