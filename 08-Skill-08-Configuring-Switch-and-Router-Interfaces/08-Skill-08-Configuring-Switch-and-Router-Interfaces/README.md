@@ -1,3 +1,0 @@
-# Lab 03 - Reading Interface Counters
-
-This lab focused on verifying interface health using Cisco IOS interface counters. I examined speed, duplex, interface resets, CRC errors, collisions, and traffic statistics to determine whether a network link was operating correctly. I also observed how a duplex mismatch affects interface counters and confirmed that the counters returned to normal once the issue was corrected. Finally, I correlated the router's interface information with the switch's MAC address table to reinforce troubleshooting techniques. This lab strengthened my understanding of using interface statistics to diagnose and verify network performance.
