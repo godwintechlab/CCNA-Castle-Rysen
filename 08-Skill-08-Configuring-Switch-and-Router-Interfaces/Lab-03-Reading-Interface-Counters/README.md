@@ -1,0 +1,3 @@
+# Lab 03 - Reading Interface Counters
+
+This lab focused on interpreting Cisco interface counters to verify the health of a network connection. I examined interface statistics including speed, duplex, input and output errors, CRC errors, collisions, and interface resets to determine whether an Ethernet link was operating normally. I also verified connectivity by checking the ARP table and MAC address table, confirming that the router and switch had correctly learned each other's addresses. Finally, I compared a healthy interface against a duplex mismatch example to understand how network faults appear in interface counters. This lab strengthened my troubleshooting skills by using interface statistics to identify healthy and faulty network conditions.
