@@ -1,0 +1,3 @@
+# Lab 01 - Coffee House and Fallout Interface Activation
+
+This lab focused on bringing the Coffee House and Fallout routers online by configuring their LAN and point-to-point interfaces. I verified the local authentication settings, configured IP addresses on the required interfaces, and preserved the existing interface descriptions throughout the deployment. After activating the interfaces, I confirmed they reached an up/up state and verified that the directly connected networks appeared in the routing table. Finally, I tested connectivity across the point-to-point link to ensure both routers could successfully communicate. This lab strengthened my understanding of router interface configuration, verification, and basic Layer 3 connectivity.
