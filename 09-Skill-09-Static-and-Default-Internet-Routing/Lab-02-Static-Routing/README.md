@@ -1,0 +1,3 @@
+# Lab 02 - Configuring Static Routing
+
+In this lab, I configured static routes between the Coffee House and Fallout Shelter routers to enable communication between their remote LANs. After verifying the interface status and directly connected networks, I added static routes using the appropriate next-hop addresses and confirmed they appeared in the routing table. End-to-end connectivity was then validated by successfully pinging devices across both LANs before saving the configurations. This lab reinforced how static routes allow routers to reach remote networks beyond their directly connected interfaces.
