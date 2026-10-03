@@ -1,0 +1,3 @@
+# Lab 01 - Configuring Local Routing
+
+In this lab, I configured local routing between the Coffee House and Fallout Shelter routers by assigning IP addresses to the LAN and point-to-point interfaces. I verified that both routers recognized their directly connected networks using the routing table and confirmed the interface status. Connectivity across the /30 point-to-point link was tested successfully using ICMP ping before saving the configurations. This lab reinforced how routers learn directly connected networks and established the foundation for implementing static and dynamic routing in later lessons.
