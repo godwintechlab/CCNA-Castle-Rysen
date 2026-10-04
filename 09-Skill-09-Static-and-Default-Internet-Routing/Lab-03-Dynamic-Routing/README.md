@@ -1,3 +1,0 @@
-# Skill 09 - Lab 04 - Configuring EIGRP Dynamic Routing
-
-In this lab, I replaced the manually configured static routes with EIGRP so both routers could automatically exchange routing information. After removing the static routes, I enabled EIGRP (AS 1), advertised the LAN and WAN networks, verified the neighbor relationship, and confirmed that the routes were learned dynamically. Finally, I tested end-to-end connectivity and saved the configurations.
